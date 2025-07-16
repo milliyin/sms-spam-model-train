@@ -29,7 +29,7 @@ A simple feed-forward neural network:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Sms-Spam.git
+git clone https://github.com/milliyin/Sms-Spam.git
 cd Sms-Spam
 ```
 
